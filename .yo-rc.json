@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Big Data",
+    "packageVersion": "0.9.0",
+    "revealTheme": "serif",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "luctogno",
+    "githubRepository": "BigDataPresentation"
+  }
+}
